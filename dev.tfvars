@@ -1,0 +1,5 @@
+vpccidr = "10.0.0.0/16"
+sub1_cidr = "10.0.1.0/24"
+sub2_cidr = "10.0.0.0/24"
+ami="ami-039ad96c19a3afe90"
+instancetype = "t2.micro"
